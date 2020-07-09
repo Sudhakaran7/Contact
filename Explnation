@@ -1,0 +1,15 @@
+Raja is a busy man, he wanted to know whether he has any duplicate contact in his contact list,
+he wants your help to find the duplicate contacts in his contact list,
+create a algorithm using stack to find out the duplicates.
+
+Sample input:
+10
+abi bob charle bob peter zen zue nicolas zue gen
+
+Sample output:
+zue
+bob
+
+Explanation:
+From the given contact list 'zue' and 'bob' were the duplicates.
+(The output must be in stack principle, LAST IN FIRST OUT)
